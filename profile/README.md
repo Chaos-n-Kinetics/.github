@@ -2,5 +2,8 @@
 
 <h1 align="center">Chaos 'n' Kinetics</h1>
 
-- [Releases](https://github.com/Chaos-n-Kinetics/Chaos-n-Kinetics/releases)
-- [Code](https://github.com/Chaos-n-Kinetics/Chaos-n-Kinetics)
+<p align="center">
+  <a href="https://github.com/Chaos-n-Kinetics/Chaos-n-Kinetics/releases"><b>Releases</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/Chaos-n-Kinetics/Chaos-n-Kinetics"><b>Source Code</b></a>
+</p>
