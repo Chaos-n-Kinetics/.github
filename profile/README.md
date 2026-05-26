@@ -3,11 +3,7 @@
 <h1 align="center">Chaos 'n' Kinetics</h1>
 
 <p align="center">
-  <a href="https://github.com/Chaos-n-Kinetics/Chaos-n-Kinetics/releases">
-    <img src="https://img.shields.io/badge/Releases-Latest-blue?style=for-the-badge&logo=github">
-  </a>
+  <a href="https://github.com/Chaos-n-Kinetics/Chaos-n-Kinetics/releases"><img src="https://img.shields.io/badge/Releases-Latest-blue?style=for-the-badge&logo=github"></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Chaos-n-Kinetics/Chaos-n-Kinetics">
-    <img src="https://img.shields.io/badge/Source-Code-gray?style=for-the-badge&logo=github">
-  </a>
+  <a href="https://github.com/Chaos-n-Kinetics/Chaos-n-Kinetics"><img src="https://img.shields.io/badge/Source-Code-gray?style=for-the-badge&logo=github"></a>
 </p>
