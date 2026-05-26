@@ -7,7 +7,7 @@
   &nbsp;&nbsp;
   <a href="https://github.com/Chaos-n-Kinetics/Chaos-n-Kinetics"><img src="https://img.shields.io/badge/Source-Code-gray?style=for-the-badge&logo=github"></a>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/actions/workflow/status/Chaos-n-Kinetics/Chaos-n-Kinetics/build.yml?label=build&style=for-the-badge">
+  <a href="https://github.com/Chaos-n-Kinetics/Chaos-n-Kinetics"><img src="https://img.shields.io/github/actions/workflow/status/Chaos-n-Kinetics/Chaos-n-Kinetics/build.yml?label=build&style=for-the-badge"></a>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/last-commit/Chaos-n-Kinetics/Chaos-n-Kinetics?style=for-the-badge">
+  <a href="https://github.com/Chaos-n-Kinetics/Chaos-n-Kinetics"><img src="https://img.shields.io/github/last-commit/Chaos-n-Kinetics/Chaos-n-Kinetics?style=for-the-badge"></a>
 </p>
